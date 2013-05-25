@@ -15,14 +15,17 @@ Bridge Builder | URL=http://en.wikipedia.org/wiki/Bridge_Builder
 Brütal Legend
 Castle Crashers
 Cave Story | URL=http://en.wikipedia.org/wiki/Cave_Story 
+Chex Quest
 Chrono Trigger | BEAT | URL=http://en.wikipedia.org/wiki/Chrono_Trigger 
 Clay Fighter | URL=http://en.wikipedia.org/wiki/ClayFighter 
 Cogs
+Commander Keen
 Cool Spot | URL=http://en.wikipedia.org/wiki/Cool_Spot 
 Cosmic Osmo
 Costume Quest | BEAT | COMPLETED
 Counter-Strike  | URL=http://en.wikipedia.org/wiki/Counter-Strike 
 Crazy Taxi  | URL=http://en.wikipedia.org/wiki/Crazy_Taxi 
+DOOM 3D
 Dark Forces
 Day of Defeat  | URL=http://en.wikipedia.org/wiki/Day_of_Defeat 
 Dear Esther
@@ -84,8 +87,8 @@ Pingus | URL=https://en.wikipedia.org/wiki/Pingus_%28video_game%29
 Plants vs. Zombies | BEAT
 Pokémon Red  | BEAT  | URL=http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue 
 Porky Pig's Haunted Holiday  | URL=http://en.wikipedia.org/wiki/Porky_Pig%27s_Haunted_Holiday 
-Portal | BEAT | URL=http://en.wikipedia.org/wiki/Portal_(video_game) 
 Portal 2 | BEAT
+Portal | BEAT | URL=http://en.wikipedia.org/wiki/Portal_(video_game) 
 Psychonauts
 Puzzle Quest
 Quake
