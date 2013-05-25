@@ -1,115 +1,153 @@
 # -*-Fundamental-*-
-Advance Wars			URL=http://en.wikipedia.org/wiki/Advance_Wars 
-Alien Swarm 			BEAT 	URL=http://en.wikipedia.org/wiki/Alien_Swarm 
-Batman: Arkham Asylum 		BEAT 
-Black and White			URL=http://en.wikipedia.org/wiki/Black_%26_White_(video_game) 
-Blueberry Garden		URL=http://en.wikipedia.org/wiki/Blueberry_Garden 
-Braid 	  			BEAT 	URL=http://en.wikipedia.org/wiki/Braid_(video_game) 
-Bridge Builder			URL=http://en.wikipedia.org/wiki/Bridge_Builder 
-Cave Story			URL=http://en.wikipedia.org/wiki/Cave_Story 
-Chrono Trigger			BEAT					    URL=http://en.wikipedia.org/wiki/Chrono_Trigger 
-Clay Fighter			URL=http://en.wikipedia.org/wiki/ClayFighter 
-Cool Spot			URL=http://en.wikipedia.org/wiki/Cool_Spot 
-Counter-Strike 			URL=http://en.wikipedia.org/wiki/Counter-Strike 
-Crazy Taxi 			URL=http://en.wikipedia.org/wiki/Crazy_Taxi 
-Day of Defeat 			URL=http://en.wikipedia.org/wiki/Day_of_Defeat 
-Diablo II 			BEAT 	URL=http://en.wikipedia.org/wiki/Diablo_II 
-Dino Run 
-Disney's Aladdin		URL=http://en.wikipedia.org/wiki/Disney%27s_Aladdin_(video_game) 
-Dolphin Olympics 2
-E.V.O.: Search for Eden 	URL=http://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden 
-EarthBound 	   		URL=http://en.wikipedia.org/wiki/EarthBound 
-Every Day The Same Dream 	BEAT 
-F-Zero 	      	   		URL=http://en.wikipedia.org/wiki/F-Zero_(video_game) 
-Fallout 3|BEAT
+Advance Wars | URL=http://en.wikipedia.org/wiki/Advance_Wars 
+Alien Swarm  | BEAT | URL=http://en.wikipedia.org/wiki/Alien_Swarm 
+BIT.TRIP RUNNER
+Bastion | BEAT
+Batman: Arkham Asylum  | BEAT 
+Batman: Arkham City | BEAT
+BioShock
+Black and White | URL=http://en.wikipedia.org/wiki/Black_%26_White_(video_game) 
+Blueberry Garden
+Blueberry Garden | URL=http://en.wikipedia.org/wiki/Blueberry_Garden 
+Botanicula
+Braid | BEAT | URL=http://en.wikipedia.org/wiki/Braid_(video_game) 
+Bridge Builder | URL=http://en.wikipedia.org/wiki/Bridge_Builder 
+Brütal Legend
+Castle Crashers
+Cave Story | URL=http://en.wikipedia.org/wiki/Cave_Story 
+Chrono Trigger | BEAT | URL=http://en.wikipedia.org/wiki/Chrono_Trigger 
+Clay Fighter | URL=http://en.wikipedia.org/wiki/ClayFighter 
+Cogs
+Cool Spot | URL=http://en.wikipedia.org/wiki/Cool_Spot 
+Cosmic Osmo
+Costume Quest | BEAT | COMPLETED
+Counter-Strike  | URL=http://en.wikipedia.org/wiki/Counter-Strike 
+Crazy Taxi  | URL=http://en.wikipedia.org/wiki/Crazy_Taxi 
+Dark Forces
+Day of Defeat  | URL=http://en.wikipedia.org/wiki/Day_of_Defeat 
+Dear Esther
+Deus Ex
+Deus Ex: Human Revolution
+Diablo II  | BEAT | URL=http://en.wikipedia.org/wiki/Diablo_II 
+Dino Run
+Disney's Aladdin | URL=http://en.wikipedia.org/wiki/Disney%27s_Aladdin_(video_game) 
+Dolphin Olympics 2 | URL=http://www.rawkins.com/games/dolphin-olympics-2
+Dustforce
+E.V.O.: Search for Eden | URL=http://en.wikipedia.org/wiki/E.V.O.:_Search_for_Eden 
+EDGE
+EarthBound  | URL=http://en.wikipedia.org/wiki/EarthBound 
+Endgame: Singularity | BEAT | URL=http://www.emhsoft.com/singularity/
+Eufloria
+Every Day The Same Dream | BEAT 
+F-Zero  | URL=http://en.wikipedia.org/wiki/F-Zero_(video_game) 
+FTL: Faster Than Light | BEAT
+Fallout 3 | BEAT
 Fallout: New Vegas
-Fruit Ninja			URL=http://en.wikipedia.org/wiki/Fruit_Ninja 
-Gish  				URL=http://en.wikipedia.org/wiki/Gish_(video_game) 
-Grim Fandango 			URL=http://en.wikipedia.org/wiki/Grim_Fandango 
-Half-Life 			BEAT 	URL=http://en.wikipedia.org/wiki/Half-Life_(video_game) 
-Half-Life 2 			BEAT 	URL=http://en.wikipedia.org/wiki/Half-Life_2 
-Half-Life: Blue Shift 		BEAT 	URL=http://en.wikipedia.org/wiki/Half-Life:_Blue_Shift 
-Half-Life: Opposing Force 	URL=http://en.wikipedia.org/wiki/Half-Life:_Opposing_Force 
-I Wish I Were The Moon 		BEAT 
-ImmorTall 	  		BEAT 	URL=http://pgstudios.org/games.php?g=2 
-Insaniquarium 			URL=http://en.wikipedia.org/wiki/Insaniquarium 
-Katamari Damacy 		URL=http://en.wikipedia.org/wiki/Katamari_Damacy 
-Killer Instinct 		URL=http://en.wikipedia.org/wiki/Killer_Instinct 
-The Legend of Zelda: A Link to the Past 	URL=http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past 
-The Legend of the Mystical Ninja   URL=http://en.wikipedia.org/wiki/The_Legend_of_the_Mystical_Ninja 
-Machinarium   	  	   	URL=http://en.wikipedia.org/wiki/Machinarium 
-Mario's Picross			URL=http://en.wikipedia.org/wiki/Mario%27s_Picross 
-Mega Man X 			URL=http://en.wikipedia.org/wiki/Mega_Man_X_(video_game) 
-Minecraft 			URL=http://en.wikipedia.org/wiki/Minecraft 
+Frozen Bubble | URL=https://en.wikipedia.org/wiki/Frozen_Bubble
+Fruit Ninja | URL=http://en.wikipedia.org/wiki/Fruit_Ninja 
+GORILLAS.BAS | URL=https://en.wikipedia.org/wiki/Gorillas_%28video_game%29
+Gish | URL=http://en.wikipedia.org/wiki/Gish_(video_game) 
+Grand Theft Auto 2
+Grand Theft Auto IV
+Grim Fandango | URL=http://en.wikipedia.org/wiki/Grim_Fandango 
+Half-Life 2 | BEAT  | URL=http://en.wikipedia.org/wiki/Half-Life_2 
+Half-Life | BEAT | URL=http://en.wikipedia.org/wiki/Half-Life_(video_game) 
+Half-Life: Blue Shift  | BEAT | URL=http://en.wikipedia.org/wiki/Half-Life:_Blue_Shift 
+Half-Life: Opposing Force | URL=http://en.wikipedia.org/wiki/Half-Life:_Opposing_Force 
+Hunt the Wumpus | URL=https://en.wikipedia.org/wiki/Hunt_the_Wumpus
+I Wish I Were The Moon  | BEAT 
+ImmorTall | BEAT | URL=http://pgstudios.org/games.php?g=2 
+Insaniquarium | URL=http://en.wikipedia.org/wiki/Insaniquarium 
+Jamestown
+Katamari Damacy | URL=http://en.wikipedia.org/wiki/Katamari_Damacy 
+Killer Instinct | URL=http://en.wikipedia.org/wiki/Killer_Instinct 
+Koules | BEAT | URL=http://freecode.com/projects/koules
+Kroz | URL=https://en.wikipedia.org/wiki/Kroz_series
+LIMBO | BEAT
+Liquid War | URL=https://en.wikipedia.org/wiki/Liquid_War
+Machinarium | URL=http://en.wikipedia.org/wiki/Machinarium 
+Magicka
+Majesty 2
+Mario's Picross | URL=http://en.wikipedia.org/wiki/Mario%27s_Picross 
+Mega Man X | URL=http://en.wikipedia.org/wiki/Mega_Man_X_(video_game) 
+Minecraft | URL=http://en.wikipedia.org/wiki/Minecraft 
+Mirror's Edge
 Mole Mania
-Myst				BEAT|COMPLETED
-Narbacular Drop 		URL=http://en.wikipedia.org/wiki/Narbacular_Drop 
+Myst | BEAT | COMPLETED
+NIBBLES.BAS | BEAT | URL=https://en.wikipedia.org/wiki/Nibbles_%28video_game%29
+Narbacular Drop  | URL=http://en.wikipedia.org/wiki/Narbacular_Drop 
+NetHack
 New Super Mario Bros 
-Osmos				BEAT 
-Pikmin				URL=http://en.wikipedia.org/wiki/Pikmin 
-Plants vs. Zombies		BEAT
-Pokémon Red 			BEAT 	URL=http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue 
-Porky Pig's Haunted Holiday 	URL=http://en.wikipedia.org/wiki/Porky_Pig%27s_Haunted_Holiday 
-Portal 	    	    		BEAT 	URL=http://en.wikipedia.org/wiki/Portal_(video_game) 
-Portal 2			BEAT
+Osmos | BEAT 
+Pikmin | URL=http://en.wikipedia.org/wiki/Pikmin 
+Pingus | URL=https://en.wikipedia.org/wiki/Pingus_%28video_game%29
+Plants vs. Zombies | BEAT
+Pokémon Red  | BEAT  | URL=http://en.wikipedia.org/wiki/Pok%C3%A9mon_Red_and_Blue 
+Porky Pig's Haunted Holiday  | URL=http://en.wikipedia.org/wiki/Porky_Pig%27s_Haunted_Holiday 
+Portal | BEAT | URL=http://en.wikipedia.org/wiki/Portal_(video_game) 
+Portal 2 | BEAT
+Psychonauts
+Puzzle Quest
 Quake
-Quake II			URL=http://en.wikipedia.org/wiki/Quake_II 
+Quake II | URL=http://en.wikipedia.org/wiki/Quake_II 
 Quake III 
-Riven				BEAT|COMPLETED
-Sam &amp; Max Hit the Road 	BEAT 
-Sam &amp; Max: Season One 	URL=http://en.wikipedia.org/wiki/Sam_%26_Max:_Season_One 
-Samorost 	      		URL=http://en.wikipedia.org/wiki/Samorost 
-Shadowrun 			URL=http://en.wikipedia.org/wiki/Shadowrun_(SNES) 
-SimAnt 				URL=http://en.wikipedia.org/wiki/SimAnt 
-SimCity 			URL=http://en.wikipedia.org/wiki/SimCity 
+Riven | BEAT | COMPLETED
+Rochard
+Sam & Max Hit the Road | BEAT
+Sam & Max: Season One | URL=http://en.wikipedia.org/wiki/Sam_%26_Max:_Season_One 
+Samorost | URL=http://en.wikipedia.org/wiki/Samorost 
+Scribblenauts | URL=https://en.wikipedia.org/wiki/Scribblenauts
+Shadowrun | URL=http://en.wikipedia.org/wiki/Shadowrun_(SNES) 
+Shank
+Sid Meier's Civilization IV
+SimAnt | URL=http://en.wikipedia.org/wiki/SimAnt 
+SimCity | URL=http://en.wikipedia.org/wiki/SimCity 
 SpaceChem
 Spelunky
 Spelunx
-Star Fox			URL=http://en.wikipedia.org/wiki/StarFox_(SNES) 
+Stacking | BEAT
+Star Fox | URL=http://en.wikipedia.org/wiki/StarFox_(SNES) 
+Star Wars: Knights of the Old Republic
 StarCraft
 StarCraft 2
-StarCraft: Brood War		URL=http://en.wikipedia.org/wiki/StarCraft:_Brood_War 
-Starsiege: Tribes		URL=http://en.wikipedia.org/wiki/Starsiege:_Tribes 
-Street Fighter II		URL=http://en.wikipedia.org/wiki/Street_Fighter_II 
+StarCraft: Brood War | URL=http://en.wikipedia.org/wiki/StarCraft:_Brood_War 
+Starseed Pilgrim
+Starsiege: Tribes | URL=http://en.wikipedia.org/wiki/Starsiege:_Tribes 
+Street Fighter II | URL=http://en.wikipedia.org/wiki/Street_Fighter_II 
 Streets of Rage 2
-Super Bomberman			URL=http://en.wikipedia.org/wiki/Super_Bomberman 
+Super Bomberman | URL=http://en.wikipedia.org/wiki/Super_Bomberman 
 Super Mario 64
 Super Mario Bros
 Super Mario Bros 2
 Super Mario Bros 3
-Super Mario RPG: Legend of the Seven Stars	BEAT
-Super Mario World	       BEAT|COMPLETED
+Super Mario RPG: Legend of the Seven Stars | BEAT
 Super Mario World 2: Yoshi's Island 
-Super Meat Boy	     	     	    URL=http://en.wikipedia.org/wiki/Super_Meat_Boy 
+Super Mario World | BEAT | COMPLETED
+Super Meat Boy | URL=http://en.wikipedia.org/wiki/Super_Meat_Boy 
 System Protocol One
-Team Fortress 2				URL=http://en.wikipedia.org/wiki/Team_Fortress_2 
-Team Fortress Classic			URL=http://en.wikipedia.org/wiki/Team_Fortress_Classic 
+TRAUMA
+Team Fortress 2 | URL=http://en.wikipedia.org/wiki/Team_Fortress_2 
+Team Fortress Classic | URL=http://en.wikipedia.org/wiki/Team_Fortress_Classic 
 Terraria
-The Battle for Wesnoth
-The Dig					URL=http://en.wikipedia.org/wiki/The_Dig 
-The Secret of Monkey Island		BEAT 
-Torchlight
-Warcraft II: Tides of Darkness		URL=http://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness 
-Warcraft III: Reign of Chaos		URL=http://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos 
-World of Goo  	       			URL=http://en.wikipedia.org/wiki/World_of_Goo 
-X-COM: UFO Defense
-You Have to Burn the Rope		URL=http://en.wikipedia.org/wiki/You_Have_to_Burn_the_Rope 
-Batman: Arkham City  BEAT
-Alien Swarm
-FTL: Faster Than Light	BEAT
-Sid Meier's Civilization IV
-Bastion	    BEAT
-Deus Ex: Human Revolution
-Majesty 2
-Deus Ex
-Costume Quest	BEAT
-Stacking	BEAT
-Trine
-realMyst	BEAT
-Rochard
-Brütal Legend
-Toki Tori
+The Battle for Wesnoth | URL=https://en.wikipedia.org/wiki/The_Battle_for_Wesnoth
 The Binding of Isaac
-LIMBO	    BEAT
-Eufloria
-VVVVVV	BEAT
+The Dig | URL=http://en.wikipedia.org/wiki/The_Dig 
+The Legend of Zelda: A Link to the Past | URL=http://en.wikipedia.org/wiki/The_Legend_of_Zelda:_A_Link_to_the_Past 
+The Legend of the Mystical Ninja | URL=http://en.wikipedia.org/wiki/The_Legend_of_the_Mystical_Ninja 
+The Misadventures of P.B. Winterbottom
+The Room
+The Secret of Monkey Island | BEAT
+Toki Tori
+Torchlight
+Train Simulator 2013
+Trine
+Tux Racer | URL=https://en.wikipedia.org/wiki/Tux_Racer
+VVVVVV | BEAT
+Vessel
+Warcraft II: Tides of Darkness | URL=http://en.wikipedia.org/wiki/Warcraft_II:_Tides_of_Darkness 
+Warcraft III: Reign of Chaos | URL=http://en.wikipedia.org/wiki/Warcraft_III:_Reign_of_Chaos 
+World of Goo  | URL=http://en.wikipedia.org/wiki/World_of_Goo 
+X-COM: UFO Defense
+XCOM: Enemy Unknown
+You Have to Burn the Rope | URL=http://en.wikipedia.org/wiki/You_Have_to_Burn_the_Rope 
+realMyst | BEAT
