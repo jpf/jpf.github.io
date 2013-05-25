@@ -76,6 +76,7 @@ Mega Man X | URL=http://en.wikipedia.org/wiki/Mega_Man_X_(video_game)
 Minecraft | URL=http://en.wikipedia.org/wiki/Minecraft 
 Mirror's Edge
 Mole Mania
+MotherLoad | URL=http://www.miniclip.com/games/motherload/en/
 Myst | BEAT | COMPLETED
 NIBBLES.BAS | BEAT | URL=https://en.wikipedia.org/wiki/Nibbles_%28video_game%29
 Narbacular Drop  | URL=http://en.wikipedia.org/wiki/Narbacular_Drop 
@@ -90,12 +91,14 @@ Porky Pig's Haunted Holiday  | URL=http://en.wikipedia.org/wiki/Porky_Pig%27s_Ha
 Portal 2 | BEAT
 Portal | BEAT | URL=http://en.wikipedia.org/wiki/Portal_(video_game) 
 Psychonauts
+Puzzle Agent
 Puzzle Quest
 Quake
 Quake II | URL=http://en.wikipedia.org/wiki/Quake_II 
 Quake III 
 Riven | BEAT | COMPLETED
 Rochard
+RollerCoaster Tycoon | URL=https://en.wikipedia.org/wiki/RollerCoaster_Tycoon
 Sam & Max Hit the Road | BEAT
 Sam & Max: Season One | URL=http://en.wikipedia.org/wiki/Sam_%26_Max:_Season_One 
 Samorost | URL=http://en.wikipedia.org/wiki/Samorost 
