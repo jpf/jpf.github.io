@@ -1,0 +1,5 @@
+* Enable git deployment to webserver
+* Make the "wiki" pages their own directories
+* Turn "video games" into a liquid page that reads from the file
+* change the front page to show latest wiki pages / posts
+* change the sidebar to show the latest posts / wiki pages
