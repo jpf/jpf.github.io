@@ -1,6 +1,6 @@
 ---
 title: Fun questions to ask Microsoft employees
-layout: default
+layout: plain
 ---
 These are questions that I wished people would have asked me when I was a Microsoft employee.
 
