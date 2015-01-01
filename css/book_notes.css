@@ -1,0 +1,89 @@
+.introduction {
+    width: 100%;
+    text-align: center;
+}
+.selected-by {
+    padding-bottom: 1em;
+    font-style: italic;
+}
+.on-book {
+    font-size: 185%;
+    font-family: "Helvetica";
+}
+.by {
+    font-family: "Helvetica";
+    font-size: 72%;
+}
+.author {
+    font-family: "Helvetica";
+    font-size: 125%;
+}
+.clippings {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.clipping {
+    margin-bottom: 3em;
+    margin-top: 3em;
+    position: relative;
+}
+.clipping:before {
+    content:'“';
+    position: absolute;
+    color: grey;
+    left: -0.55em;
+    top: -0.25em;
+    font-size: 150%;
+}
+/*
+.clipping p.highlight:before {
+    content:'“';
+}
+.clipping p.highlight:after {
+    content:'”';
+}
+*/
+.clipping .information {
+    display: inline;
+    float: right;
+    font-size: 70%;
+    font-style: italic;
+    list-style: none;
+}
+.clipping .information ul {
+    display: inline;
+    padding-left: 0;
+}
+.clipping .information li {
+    display: inline;
+}
+.clipping .information li:after {
+    content:" -";
+}
+.clipping .information li:last-child:after {
+    content:"";
+}
+.clipping .location {
+    display: inline;
+}
+.content:after { 
+   clear: both;
+   content: " ";
+   display: block; 
+   height: 0; 
+}
+.page + .location {
+    display: none;
+}
+/* FIXME position this at the top of the span.content tag */
+.note {
+    float: right;
+    border: 1px solid grey;
+    border-bottom: 0px;
+    border-right: 0px;
+    border-top: 0px;
+    font-style: italic;
+    margin-left: 0.5em;
+    padding-left: 0.5em;
+    width: 30%;
+}
