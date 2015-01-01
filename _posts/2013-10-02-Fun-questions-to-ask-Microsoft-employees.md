@@ -10,6 +10,13 @@ Many Microsoft employees won't be able to answer all of these questions, but the
 
 Ideally, all of these questions are designed to be the start of an interesting conversation.
 
+Postscript
+==========
+
+This post was written in 2012 and published in 2013. In 2014 I wrote this tweet:
+
+<blockquote class="twitter-tweet" lang="en"><p>A lot of the changes at Microsoft are changes I would have made myself if I had been given the power of fiat.</p>&mdash; Joël Franusic (@jf) <a href="https://twitter.com/jf/status/540280269098323969">December 3, 2014</a></blockquote>
+
 Questions
 =========
 
@@ -36,3 +43,5 @@ Questions
 "Why doesn't Microsoft make it easier to use the [POSIX subsystem](http://technet.microsoft.com/library/cc767884.aspx)"?
 
 "What does Microsoft think of Javascript?"
+
+<script src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
