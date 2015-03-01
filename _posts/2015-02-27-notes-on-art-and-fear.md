@@ -23,7 +23,7 @@ If you read nothing else in the book, this is the one thing you must read:
 ![A fable on perfection](/assets/img/art-and-fear-page-29.jpg)
 
 As someone who had an ever-growing pile of unfinished personal
-projects, that fable really stuck home for me. Shifting my focus to
+projects, that fable really struck home for me. Shifting my focus from
 making "perfect" things to just *making things* has really helped me get
 more of my side projects done.
 
@@ -53,7 +53,7 @@ to as "[Imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome)"
 "Fear that you are not a real artist causes you to undervalue you
 work"
 
-The book also covers the fear that others have an innate talent that
+The book also covers the fear that others have an innate talent which 
 you lack. It has a whole section on this fear, which these quotes
 summarize nicely:
 
