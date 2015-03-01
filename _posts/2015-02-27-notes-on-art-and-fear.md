@@ -119,3 +119,11 @@ catagories covered above. These are included below:
 ![How people change their minds](/assets/img/art-and-fear-page-57.jpg)
 
 ![On asking intresting questions](/assets/img/art-and-fear-page-113.jpg)
+
+## Comments? Suggestions?
+
+Please [contact me](/contact) if you have any comments on Art & Fear
+or on my notes thereof. Also, I'd love to know about other books, articles,
+videos, etc on these topics. Thanks!
+
+--[Joël Franusic](/)
