@@ -1,9 +1,7 @@
 ---
-title: Notes on Art & Fear
-layout: book_notes
+title: Notes on the book "Art & Fear" by David Bayles & Ted Orland
+layout: review
 ---
-
-# Notes on the book "Art & Fear" by David Bayles & Ted Orland
 
 Art & Fear is "a book about making art". It covers the long term
 strategies that the authors have seen in successful artists.
