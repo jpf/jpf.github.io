@@ -3,7 +3,8 @@ title: Notes on the book "Art & Fear" by David Bayles & Ted Orland
 layout: review
 ---
 
-Art & Fear is "a book about making art". It covers the long term
+[Art & Fear](http://www.amazon.com/gp/product/B0042JSQLU/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0042JSQLU&linkCode=as2&tag=joelfran-20&linkId=IAYMK5OLKHYO4T3S)
+is "a book about making art". It covers the long term
 strategies that the authors have seen in successful artists.
 
 The things that I learned from this book fell into three categories:
