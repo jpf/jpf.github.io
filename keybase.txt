@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/jfranusic
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://joel.franusic.com
+  * I am jfranusic (https://keybase.io/jfranusic) on keybase.
+  * I have a public key with fingerprint 535A 06B0 6A4A CE7C D80C  CEA2 60C5 039A 605A A1DA
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "client": {
+            "name": "keybase.io node.js client",
+            "version": "0.7.7"
+        },
+        "key": {
+            "fingerprint": "535a06b06a4ace7cd80ccea260c5039a605aa1da",
+            "host": "keybase.io",
+            "key_id": "60C5039A605AA1DA",
+            "uid": "3c0afcae130a08c73f62bff0f8f36500",
+            "username": "jfranusic"
+        },
+        "merkle_root": {
+            "ctime": 1427179555,
+            "hash": "a37070e0056038a67e3216837768141739852b7faa45f3a761c01952e38168f3e437130673bede7386590fd59c5bf31ff610e6b9512e4b2aa84ddf079de4e82b",
+            "seqno": 182833
+        },
+        "service": {
+            "hostname": "joel.franusic.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1427180156,
+    "expire_in": 157680000,
+    "prev": "3452ff11225ee47241033c4eafa1614f020df9b9481dc53e9f9611141d780396",
+    "seqno": 28,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFVkntMFFcUxpctENe0PExEIwp0gCKUbO/MnSdRXgo1pmlaCz5S43pn5s7uwLKz
+zi4gItgWhGrwAVpbqtamWEuqkFa2EQtYYiLE+kzER9U0gKaoVAq0qVQS7AyR1M5f
+M3N+57vfd87d+8pLFmvQ9g/cZ7+r2NUadOGhaMmPnL21nBA1uYxIKyckt4o9fvPN
+g4owkUYU4jIR+bBd1eI8moztBb6450wqUYJ1n6p5DArYOTtHVKSauNmsqB4n1r26
+amoRDGQQYEXAIhpJmJNkHkgSRhQLJAZAAbGAQYiUkSHp0nz+/51KTGs6VNn4y4Jl
+Jp9l8FlZ5PIso1Y8XYASQIqEMAkBArzEQYWlREUBCq9AlgHABH1Yfx6pQNGRp9in
+SqbhIqwXurFD17Tp1JJfNRmSpjiSExiGMSwhn8voQpADHMAAMCyAPGI5DCmS5SHH
+sTxJkxwUeIYSOQUhmlEg4lhSAqTAUBjyBqZATEPO8MdyUMQy5iDPMgJQZEaQGFGB
+pKKwJMCsKDAkhWmRQoinZVkBnCBjGvOUaGTw4U0ezTDHUzyEFea3XqJK2PRtzm0m
+nobd9pmIdkkrMjq9uubXJM1tlF1+vzfNTO4v82IikEaUYtHxXMkhqh7ZWN2LuyUN
+9MWp8IBk2FQCb/aqOnaoJsEYIwDGY56DS8x90AylKCRJUQzGNEfRJIBQojFSEMmS
+tAIoICuCKNA8KUsMxIIisCRpTFHmeGPB7H9ZKd4wipyGpk91epC/WMdExQ7rwmBL
+kNUSGmI1b69lti1i5kqvFCIs++nRqjUnK95oH6ODg26W2+c1VtaN/xB5eumTA30R
+31KgXh5Ibqi6YOvqbt35rCl6/oLJY7+U1pXuqn5rdb3w8WstucEtp0rzgpv69oVv
+HSY6zrVRIYO3j0X0rqoRbBMFtQPdKZWX67sYZ1G37UR8yZmpDT+vELsixp9kzF3H
+L8nPXDxMjjjyutKPH2B7In23KcvOR9TwoaOwOme07nBm59Q9a7O0beJILnG0ufCf
+AO2uStjf0ltTc733xNT9q1lJXbbWhRsTt18azPvmZHLU3B4i4UvLrYNro965vnfo
+9O7s8af7aqwxgdp0eOOrWVu2TVYHj0e93XSx4bfcunOfNMxrHwuHBcdvrkhsS805
+29LVfiRl2Z9oYjBm8rw29O76v7g027UD4j09qnbkcUfB7GxXWONlKq46KObgmvOL
+EudJruiXA/MDnf2jm0KTK68mzAr/0aHv9s4ZtmdGRXkf5K8tuJTxgHc2bqTPhN6s
+b116cUdYUs1QWFJral7lZ1Wd6xa/5/77WUL3iTbL+/D1xNDBP9KaR/ZMXcnrz1bF
+Rytv5X9xu2hFbO7QQPxq96lrd6smy4vsgcPxDa6RG9+ne+9k/L7go0eblUP3e1ct
+XL4h69XhsZB9IjX8a2zHwznO2HV9PV8vWe/YIj39vCYm7Cf+yKpFV/r4nE+r30zx
+fSgpT+94l9gf19r6o+/+Cw==
+=Gkv1
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jfranusic
+
+==================================================================
