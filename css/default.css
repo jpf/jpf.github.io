@@ -1,0 +1,23 @@
+body { padding-top: 60px; /* 60px to make the container go all the way
+to the bottom of the topbar */ }
+
+@media (max-width: 980px) {
+  /* Enable use of floated navbar text */
+  .navbar-text.pull-right {
+    float: none;
+    padding-left: 5px;
+    padding-right: 5px;
+  }
+}
+
+#main {
+  margin:0 auto;
+  float:none;
+}
+
+.content {
+  font-family: Georgia,Palatino,"Times New Roman",serif;
+  font-size: 1.25em;
+  line-height: 1.55em;
+}
+
